@@ -17,3 +17,9 @@ Public Repo, 한글
 
 ### 수평선 넣기
 ---
+
+### 이미지 삽입
+![강아지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQQdAY4HvcdOtRxApXStj7oRvUNKlATHpWA&s)
+
+### 이미지 삽입 - 크리도 조정
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQQdAY4HvcdOtRxApXStj7oRvUNKlATHpWA&s" width = "300" height = "300">
