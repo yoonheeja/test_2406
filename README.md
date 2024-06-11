@@ -23,3 +23,6 @@ Public Repo, 한글
 
 ### 이미지 삽입 - 크리도 조정
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQQdAY4HvcdOtRxApXStj7oRvUNKlATHpWA&s" width = "300" height = "300">
+
+## 링크 걸기, 내 레포에 pdf 연결
+[논문]
