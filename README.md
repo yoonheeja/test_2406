@@ -25,4 +25,4 @@ Public Repo, 한글
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQQdAY4HvcdOtRxApXStj7oRvUNKlATHpWA&s" width = "300" height = "300">
 
 ## 링크 걸기, 내 레포에 pdf 연결
-[논문](https://github.com/yoonheeja/test_2406/blob/main/2015.pdf)
+[논문](./blob/main/2015.pdf)
